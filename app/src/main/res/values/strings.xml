@@ -4,8 +4,8 @@
     <string name="app_name">Hanya</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="back">戻れ</string>
+    <string name="back">戻る</string>
     <string name="title_activity_second">SecondActivity</string>
-    <string name="clickme">Click Me!!</string>
+    <string name="clickme">クリック ミー!!</string>
 
 </resources>
